@@ -1,0 +1,19 @@
+.title{
+  margin-top:20px; 
+  text-align: center;
+  font-size:40px;
+  font-weight: bold;
+  background-color: rgb(223, 211, 211);
+}
+#num{
+  text-align: center;
+  font-weight: bold;
+}
+#result{
+  resize: none;
+}
+
+body{
+  background-color:rgb(221, 233, 243); 
+}
+
